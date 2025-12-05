@@ -1,1 +1,3 @@
-config1.txt
+config3.txt
+/secret/
+*.log
